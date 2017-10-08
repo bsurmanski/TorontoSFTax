@@ -7,7 +7,7 @@
 
 *Toronto:*
 
-* [Federal tax & Ontaro Tax](http://www.cra-arc.gc.ca/tx/ndvdls/fq/txrts-eng.html)
+* [Federal tax & Ontario Tax](http://www.cra-arc.gc.ca/tx/ndvdls/fq/txrts-eng.html)
 
 *SF:*
 
@@ -20,7 +20,7 @@
 
 # Formula
 
-        TorontoTax = CanadianFederalTax + OntaroTax + EI + CPP
+        TorontoTax = CanadianFederalTax + OntarioTax + EI + CPP
         SFTax = USFederalTax + CaliforniaTax + SocialSecurity
 
 Calculation does not take into account other taxes or cost of living.
