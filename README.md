@@ -1,6 +1,6 @@
 # Comparison Between Income Tax in Toronto and SF
 
-![Comparison for earning between 0-300k](https://github.com/bsurmanski/TorontoSFTax/blob/master/img/figure_1.png)
+![Comparison for earning between 0-300k](https://github.com/bsurmanski/TorontoSFTax/blob/master/img/figure_3.png)
 
 
 # Sources
@@ -23,4 +23,4 @@
         TorontoTax = CanadianFederalTax + OntarioTax + EI + CPP
         SFTax = USFederalTax + CaliforniaTax + SocialSecurity
 
-Calculation does not take into account other taxes or cost of living.
+Calculation does not take into account other taxes, tax breaks, or cost of living.
